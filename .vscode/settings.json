@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/32e72302-a75c-40ab-99e2-849f82513220/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/claudio",
+    "appService.deploySubpath": "Publish"
+}
